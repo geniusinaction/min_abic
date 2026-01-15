@@ -2,6 +2,7 @@
 
 Some scripts for inverting for geophysical parameters (fault slip) from geophysical data using ABIC. These were used in Funning (2005) and Funning et al. (2014) to solve the problem of jointly inverting InSAR and seismic waveform data for the slip evolution of the 1997 Manyi, Tibet earthquake.
 
+These are not in a very useable format as is. My bad. But if you want to know approximately how it was implemented, this would be a starting point. At least one person did ask me in the past how I did this, so it might be useful to someone. I do want to eventually code all this up in Python, so there's that.
 
 ## References:
 Funning, G. J., 2005, Source parameters of large shallow earthquakes in the Alpine-Himalayan belt from InSAR and waveform modelling, D.Phil. thesis, University of Oxford, 324 pp.
